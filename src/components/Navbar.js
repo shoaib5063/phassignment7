@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="nav-inner container">
         <div className="brand">
-          <span className="brand-title">cs — Ticket System</span>
+          <span className="brand-title">CS — Ticket System</span>
         </div>
         <ul className="nav-links">
           <li>Home</li>
