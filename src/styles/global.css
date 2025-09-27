@@ -28,7 +28,7 @@ body{
 
 /* banner */
 .banner{ margin-top:18px; }
-.banner-inner{ display:flex; gap:20px; align-items:center; justify-content:space-between; padding:18px 22px; background:transparent; }
+.banner-inner{ display:flex; gap:20px; align-items:center; justify-content:space-between; padding:18px 22px; background:#fff; }
 .banner-left{ flex:1; }
 .banner-title{ margin:0; font-size:18px; font-weight:700; color:#222; }
 .banner-sub{ margin:4px 0 0; color:var(--muted); font-size:13px; }
