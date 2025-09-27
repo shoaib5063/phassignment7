@@ -57,7 +57,6 @@ function App() {
   // memoize objects passed down
   const handlers = useMemo(
     () => ({ handleStartTask, handleCompleteTask }),
-    // eslint-disable-next-line react-hooks/exhaustive-deps
     [tickets, inProgress, resolved]
   );
 
